@@ -1,6 +1,7 @@
 # Volleyball England Conference
 - 27 July 2019
 - Loughborough
+- Short url: [bit.ly/30XJAvN](bit.ly/30XJAvN)
 
 ## Website builder platforms
 - [WordPress.com](https://wordpress.org)
