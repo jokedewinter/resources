@@ -4,8 +4,8 @@
 - Short url: [bit.ly/30XJAvN](bit.ly/30XJAvN)
 
 ## Website builder platforms
-- [WordPress.com](https://wordpress.org)
-- [WordPress.org](https://wordpress.com)
+- [WordPress.org](https://wordpress.org)
+- [WordPress.com](https://wordpress.com)
 - [Wix](https://www.wix.com)
 - [Weebly](https://www.weebly.com/uk)
 - [Google Sites](https://gsuite.google.com/intl/en_uk/products/sites/)
