@@ -4,7 +4,7 @@
 - Short url: [bit.ly/30XJAvN](bit.ly/30XJAvN)
 
 ## Slides
-[PDF slide deck](assets/VolleyballEnglandConference-2019-BuildingFreeWebsites.pdf)
+<a href="assets/VolleyballEnglandConference-2019-BuildingFreeWebsites.pdf" download>PDF slide deck</a>
 
 ## Checklist
 1. Page titles: Check they are different on every page, and follow the page name / club name pattern. 
