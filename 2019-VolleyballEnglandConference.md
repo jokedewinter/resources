@@ -3,6 +3,9 @@
 - Loughborough
 - Short url: [bit.ly/30XJAvN](bit.ly/30XJAvN)
 
+## Slides
+[PDF slide deck](assets/VolleyballEnglandConference-2019-BuildingFreeWebsites.pdf)
+
 ## Checklist
 1. Page titles: Check they are different on every page, and follow the page name / club name pattern. 
 2. Alt text on images: Useful for visitors using assistive technology. They count on that description to experience the image. 
