@@ -3,7 +3,8 @@
 - Loughborough
 - Short url: [bit.ly/30XJAvN](bit.ly/30XJAvN)
 
-## Slides
+## Text & slides
+<a href="assets/VolleyballEnglandConference-2019-BuildingFreeWebsites-words.pdf" download>PDF text</a>
 <a href="assets/VolleyballEnglandConference-2019-BuildingFreeWebsites.pdf" download>PDF slide deck</a>
 
 ## Checklist
